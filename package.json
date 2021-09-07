@@ -1,0 +1,21 @@
+{
+  "name": "react-2h1g6x",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "prop-types": "15.6.1",
+    "material-ui": "1.0.0-beta.39",
+    "material-ui-icons": "1.0.0-beta.36"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
